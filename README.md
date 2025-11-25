@@ -1,5 +1,4 @@
 # Hey there! 
-[Cute Wave](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
 
 I'm **Kaouther**, an AI student from Algeria
 I turn ideas into experiments, experiments into projects, and projects into things people can actually use.  
