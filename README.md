@@ -1,6 +1,6 @@
 **Hey there!** 👋
 
-I'm Kaouther, an AI student from Algeria
+I'm <u>Kaouther</u>, an AI student from Algeria
 
 I turn ideas into experiments, experiments into projects, and projects into things people can actually use.  
 
