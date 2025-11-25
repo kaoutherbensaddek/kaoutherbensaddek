@@ -1,6 +1,6 @@
 **Hey there!** 👋
 
-I'm Kaouther(https://kaouther-portfolio.com), an AI student from Algeria
+I'm Kaouther, an AI student from Algeria
 
 I build things that mix intelligence, design, and real impact.
 
