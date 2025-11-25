@@ -10,7 +10,7 @@ I turn ideas → experiments → projects → things people can actually use.
 
 I collaborate in teams on **three main school projects**: Mobile Development, Software Engineering, and AI/algorithms.  
 
-My favorite project so far: **Eventy** — connecting event organizers with people hosting events.  
+My favorite project so far: **Eventy** connecting event organizers with people hosting events.  
 
 **Fun Facts:**  
 - I don’t function well without planning everything  
