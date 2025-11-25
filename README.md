@@ -1,30 +1,18 @@
 **Hey there!** 👋
 
-I'm <span style="border-bottom: 1px solid;">Kaouther</span>, an AI student from Algeria
+I'm <u>Kaouther</u>, an AI student from Algeria.  
 
-I turn ideas into experiments, experiments into projects, and projects into things people can actually use.  
+I turn ideas → experiments → projects → things people can actually use.  
 
-My main tech stack is Python, C, C++, Java, TypeScript, and PHP.  
+💻 **Tech Stack:** Python | C | C++ | Java | TypeScript | PHP  
+🤖 **Interests:** AI, algorithms, data analysis  
+🛠️ **Favorite Tools:** Figma | VS Code | GitHub | Notion  
 
-I also enjoy exploring AI, algorithms, and data analysis.
+I collaborate in teams on **three main school projects**: Mobile Development, Software Engineering, and AI/algorithms.  
 
-My favorite tools are Figma, VS Code, GitHub, and Notion.  
+My favorite project so far: **Eventy** — connecting event organizers with people hosting events.  
 
-I collaborate in teams on three main school projects in Mobile Development, Software Engineering, and AI/algorithms.
-
-My favorite project so far is Eventy, which connects event organizers with people hosting events.  
-
-**Fun Facts:**
-
-<!-- - Planning Manager at **ETC club** 💙 -->
+**Fun Facts:**  
 - I don’t function well without planning everything  
 - I love anime, design, and building things that look ✨aesthetic✨  
-- I strongly believe any boring idea can become cool with good UI 
-
-
-
-<!-- 
-## 📚 Want to Follow My Work?
-
-Stay tuned — more projects and repositories are coming as I continue building, learning, and experimenting!
--->
+- I strongly believe any boring idea can become cool with good UI
