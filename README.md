@@ -6,7 +6,7 @@ I build things that mix intelligence, design, and real impact.
 
 My main tech stack is Python, C, C++, Java, TypeScript, and PHP and I enjoy exploring AI, algorithms, and data analysis. My favorite tools are Figma, VS Code, GitHub, and Notion.
 
-I collaborate in teams on three main school projects in Mobile Development, Software Engineering, and Data mining.
+I collaborate in teams on six main school projects.
 
 My favorite project so far is Eventy, which connects event organizers with people hosting events.  
 
