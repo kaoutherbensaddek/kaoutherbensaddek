@@ -12,8 +12,7 @@ My favorite project so far is Eventy, which connects event organizers with peopl
 
 **Fun Facts:**
 
-<!-- - Planning Manager at **ETC club** 💙 -->
-- I love purple 💜
+<!-- - Training Manager at **ETC club** 💙 -->
 - I don’t function well without planning everything  
 - I love anime, design, and building things that look aesthetic  
 - I strongly believe any boring idea can become cool with good UI 
