@@ -8,7 +8,6 @@ My main tech stack is Python, C, C++, Java, TypeScript, and PHP and I enjoy expl
 
 I collaborate in teams on many school projects.
 
-My favorite project so far is Eventy, which connects event organizers with people hosting events.  
 
 **Fun Facts:**
 
