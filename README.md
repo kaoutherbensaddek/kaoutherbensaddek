@@ -4,14 +4,13 @@ I'm [Kaouther](https://www.linkedin.com/in/kaouther-bensaddek-7434162b8/), an AI
 
 I build things that mix intelligence, design, and real impact.
 
-My main tech stack is Python, C, C++, Java, TypeScript, and PHP and I enjoy exploring AI, algorithms, and data analysis. My favorite tools are Figma, VS Code, GitHub, and Notion.
+My main tech stack is Python, C, C++, Java, TypeScript, and react and I enjoy exploring AI, algorithms, and data analysis. My favorite tools are Figma, VS Code, GitHub, and Notion.
 
 I collaborate in teams on many school projects.
 
 
 **Fun Facts:**
 
-<!-- - Training Manager at **ETC club** 💙 -->
 - I don’t function well without planning everything  
 - I love anime, design, and building things that look aesthetic  
 - I strongly believe any boring idea can become cool with good UI 
@@ -21,5 +20,5 @@ I collaborate in teams on many school projects.
 <!-- 
 ## 📚 Want to Follow My Work?
 
-Stay tuned — more projects and repositories are coming as I continue building, learning, and experimenting!
+Stay tuned ... more projects and repositories are coming as I continue building, learning, and experimenting!
 -->
