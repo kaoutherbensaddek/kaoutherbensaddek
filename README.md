@@ -9,7 +9,7 @@ My main tech stack is Python, C, C++, Java, TypeScript, and react and I enjoy ex
 I collaborate in teams on many school projects.
 
 
-**🌷Fun Facts:**
+**Fun Facts:**
 
 - I don’t function well without planning everything  
 - I love anime, design, and building things that look aesthetic  
