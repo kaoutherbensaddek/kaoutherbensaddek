@@ -15,9 +15,7 @@ I collaborate in teams on many school projects.
 - I love anime, design, and building things that look aesthetic  
 - I strongly believe any boring idea can become cool with good UI 
 
--- 
-<div align="center">
+
 
 *More projects and repositories are coming as I keep building, learning, and experimenting* 
 
-</div>
