@@ -2,8 +2,6 @@
 
 # Hey there! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=520&lines=I'm+Kaouther;AI+student+from+Algeria+🇩🇿;I+build+things+that+look+aesthetic+✨" alt="Typing SVG" />
-
 **I build things that mix intelligence, design, and real impact.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaouther-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaouther-bensaddek-7434162b8/)
